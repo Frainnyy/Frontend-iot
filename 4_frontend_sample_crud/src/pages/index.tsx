@@ -1,7 +1,7 @@
 import Layout from "../components/layout";
 import cafeBackgroundImage from "../assets/images/bg-cafe-1.jpg";
 import ajPanwitImage from "../assets/images/aj-panwit.jpg";
-import coffeeImage from "../assets/images/coffee-1.jpg";
+import coffeeImage from "../assets/images/coffeeman.jpg";
 import pirapornImage from "../assets/images/piraporn.jpg";
 
 export default function HomePage() {
@@ -25,7 +25,7 @@ export default function HomePage() {
             IoT Library & Cafe เป็นร้านกาแฟที่มีหนังสืออยู่นิดหน่อยให้คุณได้อ่าน
             และเรียนรู้เรื่องใหม่ๆ ที่เกี่ยวกับเทคโนโลยี IoT โดยคาเฟ่ของเรานั้น ก่อตั้งขึ้นโดย
             ผศ.ดร. ปานวิทย์ ธุวะนุติ ซึ่งเป็นอาจารย์ในวิชา Internet of Things และนายกฤตณัฏฐ์
-            ศิริพรนพคุณ เป็นผู้ช่วยสอนในหัวข้อ FastAPI และ React ในวิชานี้
+            ศิริพรนพคุณ เป็นผู้ช่วยสอนในหัวข้อ FastAPI และ React ในวิชานี้นะจ๊ะ
           </p>
 
           <div>
@@ -40,7 +40,7 @@ export default function HomePage() {
 
           <p className="text-right col-span-2">
           ปัจจุบันค่าเฟ่ และห้องสมุดของเรา อยู่ในช่วงการดูแลของ นางสาวพิราภรณ์ ประเสริฐ รหัส 65070157 ซึ่งมีบริการหนังสือให้อ่านโดยมีหนังสือหลากลายให้ได้เลือกอ่าน
-          แถมยังมีเครื่องดื่มกาแฟพร้อมให้บริการ มีเมนูหลากหลายให้เลือกในคาเฟ่แห่งนี้
+          แถมยังมีเครื่องดื่มกาแฟพร้อมให้บริการ มีเมนูหลากหลายให้เลือกในคาเฟ่แห่งนี้ อีกทั้งในอนาคตจะมีดนตรี live ให้ฟังกัน แต่ตอนนี้ยังไม่มีนะ รอไปก่อน ขอบคุณผู้ใช้บริการทุกท่านที่เข้ามารับชม
         </p>
         </div>
       </section>
