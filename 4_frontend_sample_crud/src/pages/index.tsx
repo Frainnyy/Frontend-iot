@@ -2,7 +2,7 @@ import Layout from "../components/layout";
 import cafeBackgroundImage from "../assets/images/bg-cafe-1.jpg";
 import ajPanwitImage from "../assets/images/aj-panwit.jpg";
 import coffeeImage from "../assets/images/coffee-1.jpg";
-import tanakitImage from "../assets/images/tanakit.jpg";
+import pirapornImage from "../assets/images/piraporn.jpg";
 
 export default function HomePage() {
   return (
@@ -35,11 +35,11 @@ export default function HomePage() {
 
         <div className="grid grid-cols-3 gap-4">
           <div>
-            <img src={tanakitImage} alt="Tanakit Singsung" className="h-full w-full object-cover" />
+            <img src={pirapornImage} alt="piraporn Singsung" className="h-full w-full object-cover" />
           </div>
 
           <p className="text-right col-span-2">
-          ปัจจุบันค่าเฟ่ และห้องสมุดของเรา อยู่ในช่วงการดูแลของ นายธนกฤต สิงห์สังข์ รหัส 65070090 ซึ่งมีบริการหนังสือให้อ่านโดยมีหนังสือหลากลายให้ได้เลือกอ่าน
+          ปัจจุบันค่าเฟ่ และห้องสมุดของเรา อยู่ในช่วงการดูแลของ นางสาวพิราภรณ์ ประเสริฐ รหัส 65070157 ซึ่งมีบริการหนังสือให้อ่านโดยมีหนังสือหลากลายให้ได้เลือกอ่าน
           แถมยังมีเครื่องดื่มกาแฟพร้อมให้บริการ มีเมนูหลากหลายให้เลือกในคาเฟ่แห่งนี้
         </p>
         </div>
